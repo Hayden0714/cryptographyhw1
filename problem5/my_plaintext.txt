@@ -1,0 +1,4 @@
+this is my output file first line
+this is the input file that i will be running against my encryption
+algorithm, after i run the encryption algorithm I will also be trying to
+decrypt that message to make sure that I get back what I am typing now.
